@@ -1,2 +1,2 @@
 # docs
-introduce some my exam in partical interview
+Introduce exam for newbie in practical
